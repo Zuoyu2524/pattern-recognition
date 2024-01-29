@@ -1,2 +1,2 @@
-# deep-learning
-resource de course deep learning 
+# pattern-recognition
+resource de course pattern-recognition 
